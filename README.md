@@ -1,4 +1,4 @@
-#PWR - Systemy Operacyjne II (laboratorium)
+# PWR - Systemy Operacyjne II (laboratorium)
 Skrypty w Bashu oraz Pythonie dot. następującej tematyki:
 - ćwiczenia podstawowe (komendy LINUX, pętle, obsługa argumentów wywołania, budowa systemu plików), 
 - operacje na dowiązaniach symbolicznych,
